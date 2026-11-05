@@ -1,0 +1,1 @@
+O aplicativo mobile funciona como um assistente de estudo pessoal. Integra cursos, organização acadêmica e gamificação, com o objetivo de tornar o aprendizado mais acessível, divertido e eficiente para alunos e professores de todos os níveis.
